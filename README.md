@@ -1,2 +1,2 @@
 # cloneInstagram
-Página Inicial do Instagram, recriada com os ensinamentos da DIO.
+Página Inicial simples do Instagram, recriada com os ensinamentos da DIO, de forma responsiva.
